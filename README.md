@@ -1,5 +1,7 @@
 # PairedGen: Image-Mask Paired Generation for Improving Polyp Segmentation
 
+![](data/framework.png)
+
 ### News
 
 2025/2/25 Update the code.
